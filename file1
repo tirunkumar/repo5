@@ -1,7 +1,13 @@
 hello
-funny
-sunny-----#dev2
+<<<<<<< HEAD
+
+blue
 red
 yellow
 hwr
+=======
+
+
+her
+>>>>>>> 82cf0c3349d89983055765fe424ac5f698dedfa9
 end
